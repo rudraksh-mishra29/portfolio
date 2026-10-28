@@ -1,0 +1,12 @@
+# Portfolio roadmap
+- [x] Refactor the global neon palette, glass/text/button/cursor glow, and scene lighting; verify existing interactions and layouts.
+- [x] Create cinematic design system and animated 3D universe.
+- [x] Build hero, biography, planet skills, project concepts, timeline, credentials, and contact.
+- [x] Add navigation, loading, cursor interactions, and reduced-motion support.
+- [x] Add metadata and verify desktop/mobile interactions, lint, and existing tests.
+- [x] Clearly identify missing student information and deployment limitations.
+- [x] Add verified education — B.Tech AI & Data Science, JECRC University, 2nd Year / 3rd Semester — to hero, about panel, timeline, footer, and schema.
+- [ ] Replace explicitly marked concepts and missing personal details — blocked on user’s project, career, graduation year, skills, credentials, résumé, and social information.
+- [ ] Enable message delivery — blocked on a real contact email.
+- [ ] Generate sitemap — blocked on the public site URL.
+- [ ] Verify direct Vercel deployment — blocked by this workspace’s required TanStack/Lovable deployment configuration; Next.js replacement is unsupported.
